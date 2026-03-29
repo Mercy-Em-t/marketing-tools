@@ -29,7 +29,7 @@ This platform integrates with major social media networks (Instagram, Facebook, 
 ### Backend MVP
 
 ```bash
-cd /home/runner/work/marketing-tools/marketing-tools/backend
+cd backend
 cargo run
 ```
 

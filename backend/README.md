@@ -19,7 +19,7 @@ Initial MVP backend implementation for the Marketing Tools platform.
 ## Run locally
 
 ```bash
-cd /home/runner/work/marketing-tools/marketing-tools/backend
+cd backend
 cargo run
 ```
 
@@ -28,7 +28,7 @@ Server starts on `http://127.0.0.1:3000`.
 ## Test
 
 ```bash
-cd /home/runner/work/marketing-tools/marketing-tools/backend
+cd backend
 cargo test
 ```
 
