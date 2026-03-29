@@ -23,3 +23,14 @@ This platform integrates with major social media networks (Instagram, Facebook, 
 - **Frontend:** Next.js
 - **Backend:** Rust
 - **Database:** Supabase
+
+## Getting Started
+
+### Backend MVP
+
+```bash
+cd /home/runner/work/marketing-tools/marketing-tools/backend
+cargo run
+```
+
+Backend API starts on `http://127.0.0.1:3000` and currently implements MVP endpoints based on the design specification.
