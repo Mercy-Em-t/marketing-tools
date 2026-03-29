@@ -5,6 +5,8 @@ A centralized, intelligent platform for managing social media content, advertise
 ## Documentation
 
 - [Software Requirements Specification (SRS)](docs/SRS.md)
+- [System Architecture Document (SAD)](docs/SAD.md)
+- [Design Specification (Technical Design)](docs/Design-Specification.md)
 
 ## Overview
 
